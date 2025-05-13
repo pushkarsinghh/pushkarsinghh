@@ -1,11 +1,12 @@
 <h1>🚀 Tech Stack:</h1>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="SnoopyWithLaptop.png" height="150px" alt="Snoopy with laptop">
-  <div>
-    <img src="TechStack/HTML.png" height="25px"> <img src="TechStack/CSS.png" height="25px"> <img src="TechStack/JS.png" height="25px"> <img src="TechStack/React.png" height="25px"> <img src="TechStack/Python.png" height="25px"> <img src="TechStack/Java.png" height="25px"> <img src="TechStack/TailwindCSS.png" height="25px"> <img src="TechStack/SQL.png" height="25px"> <img src="TechStack/Numpy.png" height="25px"> <img src="TechStack/PandasSquare.jpg" height="25px"> <img src="TechStack/Jupyter.png" height="25px"> <img src="TechStack/Figma.png" height="25px"> <img src="TechStack/Matplotlib.png" height="25px"> <img src="TechStack/Sklearn.png" height="25px"> <img src="TechStack/git.png" height="25px"> <img src="TechStack/GitHub.png" height="25px"> <img src="TechStack/Bitbucket.png" height="25px"> <img src="TechStack/Jira.png" height="25px"> <img src="TechStack/Krita.png" height="25px"> <img src="TechStack/Clang.png" height="25px"> <img src="TechStack/Arduino.png" height="25px">
-  </div>
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+  <td><img src="SnoopyWithLaptop.png" height="150" width="400px" alt="Snoopy with laptop" style="margin-right: 20px;">
+<td><img src="TechStack/HTML.png" height="25px"> <img src="TechStack/CSS.png" height="25px"> <img src="TechStack/JS.png" height="25px"> <img src="TechStack/React.png" height="25px"> <img src="TechStack/Python.png" height="25px"> <img src="TechStack/Java.png" height="25px"> <img src="TechStack/TailwindCSS.png" height="25px"> <img src="TechStack/SQL.png" height="25px"> <img src="TechStack/Numpy.png" height="25px"> <img src="TechStack/PandasSquare.jpg" height="25px"> <img src="TechStack/Jupyter.png" height="25px"> <img src="TechStack/Figma.png" height="25px"> <img src="TechStack/Matplotlib.png" height="25px"> <img src="TechStack/Sklearn.png" height="25px"> <img src="TechStack/git.png" height="25px"> <img src="TechStack/GitHub.png" height="25px"> <img src="TechStack/Bitbucket.png" height="25px"> <img src="TechStack/Jira.png" height="25px"> <img src="TechStack/Krita.png" height="25px"> <img src="TechStack/Clang.png" height="25px"> <img src="TechStack/Arduino.png" height="25px">
+  </td>
+  </tr>
+</table>
 
 <br>
 
