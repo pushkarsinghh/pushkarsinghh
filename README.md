@@ -1,3 +1,6 @@
+<h1>🌱 Hi, Myself Pushkar:</h1>
+I am a Computer Science student exploring full-stack development and AI/ML. I enjoy building things, learning by doing, and growing with every project.  
+
 <h1>🚀 Tech Stack:</h1>
 
 <table>
