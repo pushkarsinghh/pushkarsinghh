@@ -8,8 +8,6 @@
   </tr>
 </table>
 
-<br>
-
 <h1>🐧 GitHub Stats:</h1>
 
 ![pushkarsinghh's Stats](https://github-readme-stats.vercel.app/api?username=pushkarsinghh&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&card_width=199)
